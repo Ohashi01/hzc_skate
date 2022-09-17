@@ -1,6 +1,4 @@
 # hzc_skate
-site built for alura front-end course, using HTML and CSS
+Site built for alura front-end course, using HTML and CSS for grid class
 
-Alura HZC_SKATE
 
-Site built using only HTML and CSS for Alura grid class
